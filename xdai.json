@@ -989,5 +989,13 @@
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
     }
+    {
+      "name": "MoonTools.io on xDai",
+      "address": "0xe1Fe0C26aa72Cd058286B5D296F32aCb27102786",
+      "symbol": "MOONS",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/moontools_32.png?v=4"
+    }
   ]
 }
