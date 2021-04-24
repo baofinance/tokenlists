@@ -522,7 +522,23 @@
 			"symbol": "PNDA",
 			"decimals": 18,
 			"chainId": 56,
-			"logoURI": "https://www.bao.finance/static/media/bao-banner.90e5acb6.png"
+			"logoURI": "https://pandaswap.xyz/static/media/bao-logo.afd82c21.png"
+		},
+		{
+			"name": "BAO",
+			"address": "0x47eaf5F54D79d5c2B6537a90a0C58a534Ab51C8c",
+			"symbol": "BAO",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
+		},
+		{
+			"name": "Wrapped BNB",
+			"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+			"symbol": "WBNB",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://bscscan.com/token/images/binance_32.png"
 		}
 	]
 }
