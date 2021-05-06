@@ -526,12 +526,12 @@
       "logoURI": "https://etherscan.io/token/images/nexo_32.png"
     },
     {
-      "name": "NFTopium",
+      "name": "NFTopia",
       "address": "0x586f8a53c24d8d35a9f49e94d09058560791803e",
       "symbol": "NTP",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://nftopia.vercel.app/favicon.png"
+      "logoURI": "https://raw.githubusercontent.com/baofinance/assets/master/blockchains/xdai/assets/0x586f8a53C24d8D35A9F49e94D09058560791803E/logo.png"
     },
     {
       "name": "Math Network",
