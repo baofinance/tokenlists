@@ -1,0 +1,26 @@
+{
+    "name": "baoswap-default-token-list",
+    "version": "2.5.1",
+    "description": "◦ The BaoSwap default token list",
+    "main": "xdai.json",
+    "files": [
+      "xdai.json"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/baofinance/tokenlists.git"
+    },
+    "keywords": [
+      "baoswap",
+      "default",
+      "token",
+      "list"
+    ],
+    "author": "thebaoman",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+      "url": "https://github.com/baofinance/tokenlists.git/issues"
+    },
+    "homepage": "https://github.com/baofinance/tokenlists.git#readme"
+  }
+  
