@@ -604,6 +604,14 @@
 			"decimals": 18,
 			"chainId": 56,
 			"logoURI": "https://assets.coingecko.com/coins/images/11976/small/Cream.png?1596593418"
-		}
+		},
+		{
+  "name": "Quazenthor",
+  "address": "0x013f5f2F7F5b027012415A783ac2ed69EF936aE8",
+  "symbol": "QWBQ",
+  "decimals": 18,
+  "chainId": 56,
+  "logoURI": "https://quazenthor.com/logo.png"
+}
 	  ]
 	}
